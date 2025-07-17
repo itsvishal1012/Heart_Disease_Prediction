@@ -19,14 +19,14 @@ This project helps in predicting whether a person is likely to have heart diseas
 
 # 🏗️ Project Structure
 
-1.) heart.csv                # Dataset used for training (uploaded)
-2.) trained_model.sav        # Serialized machine learning model
-3.) scaler.sav               # Serialized scaler object (StandardScaler)
-4.) Heart_Disease_App.py     # Streamlit front-end app script
-5.) predictive_system.py     # Backend prediction logic
-6.) Screenshot.png           # Interface screenshot
-7.) Heart_prediction.ipynb   # Notebook for training/experimentation
-8.) README.md                # You're here!
+1.) heart.csv - Dataset used for training (uploaded)
+2.) trained_model.sav - Serialized machine learning model
+3.) scaler.sav - Serialized scaler object (StandardScaler)
+4.) Heart_Disease_App.py - Streamlit front-end app script
+5.) predictive_system.py - Backend prediction logic
+6.) Screenshot.png - Interface screenshot
+7.) Heart_prediction.ipynb - Notebook for training/experimentation
+8.) README.md - You're here!
 
 # 📥 Input Features (13 Total)
 Feature	Description

@@ -19,7 +19,8 @@ This project helps in predicting whether a person is likely to have heart diseas
 
 # 🏗️ Project Structure
 
-├── heart.csv                 # Dataset used for training (uploaded)
+├── heart.csv                # Dataset used for training (uploaded)
+
 ├── trained_model.sav        # Serialized machine learning model
 ├── scaler.sav               # Serialized scaler object (StandardScaler)
 ├── Heart_Disease_App.py     # Streamlit front-end app script
